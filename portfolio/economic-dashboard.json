@@ -1,0 +1,15 @@
+{
+  "section": "python",
+  "category": "quant",
+  "n": 2,
+  "title": "Economic Dashboard",
+  "desc": "26 Python data pipelines pulling FRED API data — yield curves, housing starts, unemployment, CAPE ratio, credit spreads and more.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Economic-Dashboard",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Economic-Dashboard/blob/main/README.md",
+  "tags": [
+    "python",
+    "economics",
+    "api",
+    "data-viz"
+  ]
+}
